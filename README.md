@@ -1,3 +1,5 @@
+PMO業務で使用されるExcel進捗管理表を、安全にクレンジング・集計可能な形式へ変換するPythonスクリプトです。
+
 # progress-management-excel-cleanser
 Excel進捗管理表のクレンジング・自動整形スクリプト（Python）
 
